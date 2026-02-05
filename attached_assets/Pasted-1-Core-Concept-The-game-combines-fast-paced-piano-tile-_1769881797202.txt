@@ -1,0 +1,68 @@
+1. Core Concept
+The game combines fast-paced piano-tile mechanics with Islamic audio, knowledge, and spiritual learning.
+Players must tap, swipe, or hold tiles in rhythm with recitations, nasheeds (without instruments), or spoken words tied to learning Islamic concepts (Qur’an, Arabic, history, or values).
+
+Working Title: “NoorTiles” or “Rhythm of Deen”
+
+2. Game Modes
+1. Qur’an Flow Mode
+
+Tap in rhythm to beautiful recitations (from licensed Qur’an readers).
+
+After a round, players are quizzed on meaning, translation, or tajwid points.
+
+Example: tap in sync with Surat Al-Fatihah, then answer: “What does ‘Rabb al-‘Alamin’ mean?”
+
+2. Knowledge Quest Mode
+
+Follow spoken Arabic phrases or hadith segments by rhythm, unlocking learning points.
+
+Each level teaches a new Arabic root word or Prophet’s saying.
+
+Think “Duolingo” meets rhythm gaming.
+
+3. Nasheed Rush Mode
+
+Tap in beat to nasheeds with mindful or motivational lyrics.
+
+Unlock “meaning cards” explaining moral themes behind the songs.
+
+4. Challenge Mode
+
+Speed, memory, and combo challenges (e.g., “Tap all tiles that match words of Jannah”).
+
+Promotes focus, vocabulary building, and quick recognition of Arabic or Islamic terms.
+
+3. Educational Integration
+To make it mentally stimulating and not childish:
+
+Include mini quizzes (translation matching, timeline of prophets, or fiqh challenges).
+
+Feature progressive difficulty: start with beginner Arabic, scale to full ayah meaning parsing.
+
+Offer leaderboards, daily goals, and achievements tied to Islamic virtues (e.g., “Sabr Sprint,” “Knowledge Seeker,” etc.).
+
+4. Aesthetic and Visual Direction
+Design: modern Islamic art (geometric motifs, calligraphy effects).
+
+Colors: tranquil (turquoise, gold, white) with night and day themes.
+
+UI/UX: minimal distractions, focusing on flow, rhythm, and beauty.
+
+Sound: high-quality nasheeds, recitations, or soft percussion for immersion.
+
+5. Monetization and Growth Vision
+Free base game, premium unlocks (topics, voices, game skins).
+
+Collaborations with Qur’an learning platforms or Islamic creators (like Durioo or OnePath).
+
+Seasonal content: Ramadan Reflection mode, Hajj Journey pack, Seerah Challenge.
+
+6. Unique Selling Point
+Unlike Durioo (video entertainment), this app is interactive learning through rhythm — training focus, hand coordination, and Islamic literacy in one.
+It’s not passive content; it’s engagement through remembrance (dhikr) and awareness — a “spiritual reflex trainer.”
+
+Example Level Illustration
+Imagine a level called “Names of Allah: Ar-Rahman”:
+Tiles descend as the name and meaning “The Most Merciful” are recited rhythmically. You must hit each syllable in sync. Finish perfectly to unlock its reflection, a verse mentioning the name, and real-life application tips.
+
