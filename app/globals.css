@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;600;700&family=Space+Grotesk:wght@400;600;700&display=swap");
+@import "tailwindcss";
+
+:root {
+  --noor-deep: #0b2f36;
+  --noor-night: #0a2227;
+  --noor-teal: #1b6b75;
+  --noor-aqua: #33e2d7;
+  --noor-mint: #6ef2c1;
+  --noor-sun: #f9e48a;
+  --noor-ice: #c5f5ff;
+}
+
+@theme inline {
+  --color-background: #0a2227;
+  --color-foreground: #ffffff;
+  --font-sans: "Baloo 2", system-ui, sans-serif;
+  --font-mono: "Space Grotesk", ui-monospace, monospace;
+}
+
+body {
+  background: radial-gradient(circle at top, #1b6b75 0%, #0a2227 55%, #07181c 100%);
+  color: #ffffff;
+  font-family: "Baloo 2", system-ui, sans-serif;
+  min-height: 100vh;
+}
+
+* {
+  box-sizing: border-box;
+}
